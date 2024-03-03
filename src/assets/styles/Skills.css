@@ -1,14 +1,14 @@
 .loading-bar {
     width: 80%;
     height: 20px;
-    background-color: #eee;
+    background-color: white;
     position: relative;
   }
 
   .progress-bar {
     height: 100%;
     background-color: #3498db;
-    width: 50%; /* Adjust the width based on your loading progress (0% to 100%) */
+    width: 50%;
     text-align: end;
     border-radius: 5px;
   }
